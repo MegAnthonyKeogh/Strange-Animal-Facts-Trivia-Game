@@ -1,9 +1,10 @@
-Strange Animal Trivia Game
+ # Strange Animal Trivia Game
 
 
 
 ![sloth](assets/images/sloth.gif)
-Want to test your knowledge about animals? Check out the game here. https://meganthonykeogh.github.io/Strange-Animal-Facts-Trivia-Game/
+
+Want to test your knowledge about animals? Check out the game here. [Animal Trivia](https://meganthonykeogh.github.io/Strange-Animal-Facts-Trivia-Game/)
 
 During this project, I learned how to use time intervals in JavaScript in the form of a trivia game. 
 
